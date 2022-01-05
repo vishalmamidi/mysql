@@ -1,1 +1,6 @@
-```netstat -tlnp```
+```
+netstat -tlnp
+```
+```
+ps -ef | grep mysql
+```
